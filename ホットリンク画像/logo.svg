@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91" height="46.892" viewBox="0 0 91 46.892">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.995" x2="0.5" y2="0.002" gradientUnits="objectBoundingBox">
+      <stop offset="0.009" stop-color="#faee1b"/>
+      <stop offset="0.146" stop-color="#f5d123"/>
+      <stop offset="0.241" stop-color="#f4bf21"/>
+      <stop offset="0.34" stop-color="#f19c1e"/>
+      <stop offset="0.412" stop-color="#f0931d"/>
+      <stop offset="0.636" stop-color="#ee771c"/>
+      <stop offset="0.75" stop-color="#f39b53"/>
+      <stop offset="0.859" stop-color="#f7bd89"/>
+      <stop offset="1" stop-color="#fad0ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5d123"/>
+      <stop offset="0.029" stop-color="#f5cd22"/>
+      <stop offset="0.355" stop-color="#f19c1e"/>
+      <stop offset="0.366" stop-color="#f19a1e"/>
+      <stop offset="0.485" stop-color="#ef811c"/>
+      <stop offset="0.552" stop-color="#ee771c"/>
+      <stop offset="0.821" stop-color="#f39b53"/>
+      <stop offset="0.912" stop-color="#f5ac6f"/>
+      <stop offset="0.998" stop-color="#fad0ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" y2="-0.256" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5d123"/>
+      <stop offset="0.029" stop-color="#f5cd22"/>
+      <stop offset="0.365" stop-color="#f19c1e"/>
+      <stop offset="0.381" stop-color="#f19a1e"/>
+      <stop offset="0.544" stop-color="#ef811c"/>
+      <stop offset="0.636" stop-color="#ee771c"/>
+      <stop offset="0.846" stop-color="#f39b53"/>
+      <stop offset="0.998" stop-color="#fad0ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="1" x2="0.5" y2="-0.234" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5d123"/>
+      <stop offset="0.025" stop-color="#f5cd22"/>
+      <stop offset="0.312" stop-color="#f19c1e"/>
+      <stop offset="0.331" stop-color="#f19a1e"/>
+      <stop offset="0.526" stop-color="#ef811c"/>
+      <stop offset="0.636" stop-color="#ee771c"/>
+      <stop offset="0.846" stop-color="#f39b53"/>
+      <stop offset="0.998" stop-color="#fad0ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5d123"/>
+      <stop offset="0.03" stop-color="#f5cd22"/>
+      <stop offset="0.369" stop-color="#f19c1e"/>
+      <stop offset="0.382" stop-color="#f19a1e"/>
+      <stop offset="0.524" stop-color="#ef811c"/>
+      <stop offset="0.604" stop-color="#ee771c"/>
+      <stop offset="0.828" stop-color="#f39b53"/>
+      <stop offset="0.921" stop-color="#f6af73"/>
+      <stop offset="0.998" stop-color="#fad0ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" y1="0.938" x2="0.5" y2="0.062" gradientUnits="objectBoundingBox">
+      <stop offset="0.002" stop-color="#f19c1e"/>
+      <stop offset="0.038" stop-color="#f19a1e"/>
+      <stop offset="0.421" stop-color="#ef811c"/>
+      <stop offset="0.636" stop-color="#ee771c"/>
+      <stop offset="1" stop-color="#f39b53"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="128.038" cy="33.7" r="0.747" gradientTransform="translate(-0.016 -0.005)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6cb1e"/>
+      <stop offset="1" stop-color="#f3b420"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-7" x1="0.5" y1="0.978" x2="0.5" y2="-0.025" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ee771c" stop-opacity="0.502"/>
+      <stop offset="0.198" stop-color="#f39b53"/>
+      <stop offset="0.531" stop-color="#f7ba85"/>
+      <stop offset="0.764" stop-color="#fad0ab"/>
+      <stop offset="0.869" stop-color="#fce1c8"/>
+      <stop offset="0.997" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.5" y1="0.995" x2="0.5" y2="0.002" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ee771c" stop-opacity="0"/>
+      <stop offset="0.574" stop-color="#f7bd89"/>
+      <stop offset="0.761" stop-color="#fad1b4"/>
+      <stop offset="0.871" stop-color="#fbdcc9"/>
+      <stop offset="1" stop-color="#fce3d4"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="-2.647" cy="-159.528" r="2.761" gradientTransform="translate(-0.284 -15.782) scale(0.913 0.913)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5c92d"/>
+      <stop offset="0.233" stop-color="#f4bf21"/>
+      <stop offset="0.404" stop-color="#f2ac1f"/>
+      <stop offset="0.644" stop-color="#f19c1e"/>
+      <stop offset="0.661" stop-color="#f19a1e"/>
+      <stop offset="0.843" stop-color="#ef811c"/>
+      <stop offset="0.944" stop-color="#ee771c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-9" x1="0.5" y1="0.979" x2="0.5" y2="-0.025" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8cf1a" stop-opacity="0.102"/>
+      <stop offset="0.069" stop-color="#f8cb26" stop-opacity="0.188"/>
+      <stop offset="0.157" stop-color="#f9c23b" stop-opacity="0.302"/>
+      <stop offset="0.361" stop-color="#f5a745"/>
+      <stop offset="0.56" stop-color="#f7b984"/>
+      <stop offset="0.737" stop-color="#f9cba3"/>
+      <stop offset="1" stop-color="#fef4ea"/>
+    </linearGradient>
+  </defs>
+  <g id="logo" transform="translate(5596.5 1126)">
+    <g id="グループ_10543" data-name="グループ 10543" transform="translate(-5596.5 -1126)">
+      <g id="グループ_2694" data-name="グループ 2694">
+        <path id="パス_570" data-name="パス 570" d="M7.58,19.519a2.714,2.714,0,0,1-4.392.134C2.1,18.381.672,18.428.247,20.12A20.171,20.171,0,0,0,0,22.461c.6,13.891,13,24.431,28.257,24.431,13.938,0,25.52-8.753,27.852-20.911a24.022,24.022,0,0,0,0-9.026C54.031,7.276,45.968.381,35.073.019,16.258-.607,10.7,14.411,7.58,19.519" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="パス_554" data-name="パス 554" d="M2.371,25A2.277,2.277,0,1,0,.094,22.726,2.277,2.277,0,0,0,2.371,25" transform="translate(-5596.54 -1134.596)" fill="#ee771c"/>
+    <g id="グループ_2674" data-name="グループ 2674" transform="translate(-5537.251 -1109.691)">
+      <path id="パス_557" data-name="パス 557" d="M102.222,39.056c1.036-.017,1.243-.3,1.243-1.3v-7.4c0-.774-.145-.933-.786-1.091-.166-.035-.207-.105-.207-.264,0-.176.041-.211.165-.247a17.159,17.159,0,0,1,2.608-.616c.187,0,.29.07.29.634v8.986c0,1,.207,1.283,1.242,1.3v.46h-4.555v-.46Z" transform="translate(-102.222 -28.137)" fill="#ee771c"/>
+    </g>
+    <g id="グループ_2675" data-name="グループ 2675" transform="translate(-5531.726 -1105.458)">
+      <path id="パス_558" data-name="パス 558" d="M111.754,42.587v-.46c.952,0,1.262-.261,1.262-1.071v-3.4c0-.774-.145-.932-.87-1.091-.082-.018-.123-.105-.123-.264,0-.176.061-.211.228-.264a21.2,21.2,0,0,1,2.484-.6c.207,0,.352.088.352.651v5.034c0,.757.249,1,1.263,1v.46h-4.6Z" transform="translate(-111.754 -35.441)" fill="#ee771c"/>
+    </g>
+    <g id="グループ_2676" data-name="グループ 2676" transform="translate(-5526.015 -1105.775)">
+      <path id="パス_559" data-name="パス 559" d="M121.607,42.357V41.9c.807,0,1.117-.261,1.117-1.071v-3.4c0-.862-.249-1.056-.766-1.144-.145-.017-.228-.035-.228-.211a.261.261,0,0,1,.228-.264c.725-.176,2.422-.915,2.588-.915s.249.106.249.4v.792a5,5,0,0,1,2.588-.88c1.739,0,2.754.7,2.754,2.64v2.992c0,.792.351,1.053,1.118,1.053v.46h-4.306V41.9c.807-.07,1.118-.35,1.118-.948v-2.78c0-1.655-.476-2.042-1.532-2.042a2.659,2.659,0,0,0-1.739.669v4.1c0,.757.249,1,.994,1v.46h-4.182Z" transform="translate(-121.607 -34.894)" fill="#ee771c"/>
+    </g>
+    <g id="グループ_2677" data-name="グループ 2677" transform="translate(-5515.356 -1109.691)">
+      <path id="パス_560" data-name="パス 560" d="M143.309,37.756c0,1,.208,1.283,1.076,1.3v.46H140v-.46c1.035-.017,1.243-.3,1.243-1.3v-7.4c0-.774-.145-.933-.787-1.091-.165-.035-.206-.105-.206-.264,0-.176.042-.211.165-.247a17.14,17.14,0,0,1,2.609-.616c.186,0,.289.07.289.634v6.874l2.132-1.355c.394-.246.684-.493.684-.81,0-.246-.186-.508-.787-.508v-.46h3.685v.46c-.6,0-.974.227-1.988.966l-1.47,1.091,2.982,3.1c.58.6.766.825,1.3.93v.46h-4.348v-.46c.58,0,.787-.191.787-.332,0-.158-.061-.281-.29-.528l-2.029-2.252-.663.423v1.389Z" transform="translate(-139.997 -28.137)" fill="#ee771c"/>
+    </g>
+    <g id="グループ_2679" data-name="グループ 2679" transform="translate(-5537.069 -1109.51)">
+      <g id="グループ_2678" data-name="グループ 2678">
+        <path id="パス_561" data-name="パス 561" d="M105.484,37.888V28.9c0-.378-.052-.441-.058-.447h0a.223.223,0,0,0-.05,0,13.456,13.456,0,0,0-2.2.508l-.363.1-.028.009a.439.439,0,0,0,0,.061.22.22,0,0,0,.007.07h0s.019.008.056.015c.749.184.931.434.931,1.269v7.4c0,1.068-.284,1.424-1.243,1.476v.1h4.19v-.1C105.767,39.312,105.484,38.955,105.484,37.888Z" transform="translate(-102.536 -28.45)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="グループ_2681" data-name="グループ 2681" transform="translate(-5531.543 -1105.275)">
+      <g id="グループ_2680" data-name="グループ 2680">
+        <path id="パス_562" data-name="パス 562" d="M115.036,41.259V36.225c0-.468-.09-.468-.169-.468a14.932,14.932,0,0,0-1.974.466c-.187.052-.348.1-.464.126a.455.455,0,0,0-.089.035s0,.018,0,.052a.385.385,0,0,0,.009.092c.8.18.985.421.985,1.263v3.4c0,.859-.346,1.211-1.262,1.25v.1h4.23v-.1C115.359,42.406,115.036,42.092,115.036,41.259Z" transform="translate(-112.069 -35.757)" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g id="グループ_2683" data-name="グループ 2683" transform="translate(-5525.832 -1105.592)">
+      <g id="グループ_2682" data-name="グループ 2682">
+        <path id="パス_563" data-name="パス 563" d="M130.087,40.976V37.984c0-1.7-.793-2.457-2.571-2.457a4.779,4.779,0,0,0-2.491.852l-.279.174V35.432c0-.18-.034-.217-.035-.219a.118.118,0,0,0-.023,0c-.089.017-.485.17-.834.3a17.579,17.579,0,0,1-1.718.605c-.088.021-.088.054-.088.086a.194.194,0,0,0,0,.02l.065.01c.686.117.927.463.927,1.325v3.4c0,.829-.326,1.2-1.117,1.248v.1h3.817v-.1c-.712-.048-.995-.39-.995-1.178V36.847l.06-.055a2.836,2.836,0,0,1,1.861-.715c1.266,0,1.715.582,1.715,2.225v2.78c0,.82-.566,1.039-1.118,1.112v.113H131.2v-.1A1.06,1.06,0,0,1,130.087,40.976Z" transform="translate(-121.923 -35.21)" fill="url(#linear-gradient-4)"/>
+      </g>
+    </g>
+    <g id="グループ_2685" data-name="グループ 2685" transform="translate(-5515.174 -1109.509)">
+      <g id="グループ_2684" data-name="グループ 2684">
+        <path id="パス_564" data-name="パス 564" d="M148.661,38.5l-.112-.117-2.982-3.1-.144-.15.166-.123,1.47-1.091a3.874,3.874,0,0,1,1.914-.995v-.1h-3.32v.1c.576.056.787.378.787.682,0,.425-.37.715-.77.964l-2.131,1.355-.281.179V28.9c0-.378-.051-.441-.057-.447h0a.256.256,0,0,0-.049,0,13.425,13.425,0,0,0-2.2.508l-.361.1-.028.009a.589.589,0,0,0,0,.061.255.255,0,0,0,.006.07h0a.525.525,0,0,0,.056.015c.749.184.931.434.931,1.27v7.4c0,1.068-.284,1.424-1.243,1.476v.1h4.023v-.1c-.909-.07-1.076-.544-1.076-1.474V36.4l.085-.054.663-.423.131-.083.1.115,2.029,2.252a.943.943,0,0,1,.337.65c0,.216-.21.465-.787.508v.1H149.8v-.132A2.373,2.373,0,0,1,148.661,38.5Z" transform="translate(-140.311 -28.451)" fill="url(#linear-gradient-5)"/>
+      </g>
+    </g>
+    <path id="パス_565" data-name="パス 565" d="M114.848,31.257a1.2,1.2,0,1,0-1.2-1.2,1.2,1.2,0,0,0,1.2,1.2" transform="translate(-5644.278 -1138.133)" fill="#ee771c"/>
+    <g id="グループ_2692" data-name="グループ 2692" transform="translate(-5530.442 -1109.096)">
+      <g id="グループ_2687" data-name="グループ 2687">
+        <g id="グループ_2686" data-name="グループ 2686">
+          <path id="パス_566" data-name="パス 566" d="M115,31.219a1.028,1.028,0,1,0-1.027-1.028A1.027,1.027,0,0,0,115,31.219" transform="translate(-113.969 -29.164)" fill="url(#linear-gradient-6)"/>
+        </g>
+      </g>
+      <g id="グループ_2689" data-name="グループ 2689" transform="translate(0.306 0.276)">
+        <g id="グループ_2688" data-name="グループ 2688">
+          <path id="パス_567" data-name="パス 567" d="M115.244,31.136a.748.748,0,1,0-.747-.748.748.748,0,0,0,.747.748" transform="translate(-114.497 -29.641)" fill="url(#radial-gradient)"/>
+        </g>
+      </g>
+      <g id="グループ_2691" data-name="グループ 2691" transform="translate(0.126 0.002)">
+        <g id="グループ_2690" data-name="グループ 2690">
+          <path id="パス_568" data-name="パス 568" d="M114.68,30.249c.214,0,.633.006.855.006a.423.423,0,0,0,.464-.336.923.923,0,0,0-1.813-.007C114.186,30.064,114.351,30.249,114.68,30.249Z" transform="translate(-114.186 -29.167)" fill="url(#linear-gradient-7)"/>
+        </g>
+      </g>
+    </g>
+    <g id="グループ_2697" data-name="グループ 2697" transform="translate(-5581.214 -1125.006)">
+      <g id="グループ_2696" data-name="グループ 2696">
+        <path id="パス_571" data-name="パス 571" d="M26.373,10.565a31.1,31.1,0,0,0,17.938,5.25,31.756,31.756,0,0,0,18.15-5.483A20.759,20.759,0,0,0,45.88,1.714C36.143,1.714,30.253,5.721,26.373,10.565Z" transform="translate(-26.373 -1.714)" fill="url(#linear-gradient-8)"/>
+      </g>
+    </g>
+    <path id="パス_572" data-name="パス 572" d="M24.721,37.756c0,1,.207,1.283.952,1.3v.46H21.409v-.46c1.035-.017,1.242-.3,1.242-1.3v-7.4c0-.774-.145-.933-.787-1.091-.166-.035-.207-.105-.207-.264,0-.176.041-.211.165-.247a17.15,17.15,0,0,1,2.609-.616c.186,0,.29.07.29.634v4.393a4.221,4.221,0,0,1,2.463-.792c1.739,0,2.754.7,2.754,2.64V38c0,.792.352,1.053,1.076,1.053v.46H26.75v-.46c.807-.07,1.118-.35,1.118-.948v-2.78c0-1.654-.476-2.042-1.532-2.042a2.824,2.824,0,0,0-1.615.6v3.871Z" transform="translate(-5605.5 -1137.828)" fill="#fff"/>
+    <path id="パス_573" data-name="パス 573" d="M44.318,42.727a3.675,3.675,0,1,1,0-7.286,3.675,3.675,0,1,1,0,7.286m0-6.722c-1.118,0-1.8,1.2-1.8,3.079s.683,3.08,1.8,3.08,1.8-1.2,1.8-3.08S45.436,36,44.318,36" transform="translate(-5613.381 -1140.899)" fill="#fff"/>
+    <path id="パス_574" data-name="パス 574" d="M66.935,40.523a2.252,2.252,0,0,1-1.014.212c-.6,0-1.138-.316-1.138-1.338V35.278h1.863v-.845H64.782V33.025c0-.246-.063-.316-.228-.316a7.115,7.115,0,0,0-1.822,1.284c-.167.128-.41.284-.642.44h-2.4V33.025c0-.246-.062-.316-.228-.316a7.105,7.105,0,0,0-1.822,1.284c-.414.317-1.3.809-1.3,1.039,0,.141.125.246.352.246.683,0,.931.07.931.862v3.5c0,1.2.683,1.935,2.132,1.935a4.682,4.682,0,0,0,2.34-.616l-.249-.44a2.252,2.252,0,0,1-1.014.212c-.6,0-1.138-.316-1.138-1.338V35.278H61.78c.683,0,.931.07.931.862v3.5c0,1.2.683,1.935,2.132,1.935a4.682,4.682,0,0,0,2.34-.616Z" transform="translate(-5620.183 -1139.75)" fill="#fff"/>
+    <path id="パス_575" data-name="パス 575" d="M80.21,42.727a3.676,3.676,0,1,1,4.162-3.643,3.85,3.85,0,0,1-4.162,3.643m0-6.722c-1.118,0-1.8,1.2-1.8,3.079s.683,3.08,1.8,3.08,1.8-1.2,1.8-3.08S81.327,36,80.21,36" transform="translate(-5628.47 -1140.899)" fill="#fff"/>
+    <g id="グループ_10544" data-name="グループ 10544" transform="translate(-5596.135 -1113.343)">
+      <g id="グループ_2669" data-name="グループ 2669">
+        <path id="パス_555" data-name="パス 555" d="M2.594,25.425a1.973,1.973,0,0,0,1.965-1.777,2,2,0,0,0-1.965-1.811A2,2,0,0,0,.629,23.648a1.973,1.973,0,0,0,1.965,1.777" transform="translate(-0.629 -21.837)" fill="url(#radial-gradient-2)"/>
+      </g>
+    </g>
+    <g id="グループ_10545" data-name="グループ 10545" transform="translate(-5596 -1113.953)">
+      <g id="グループ_2671" data-name="グループ 2671">
+        <path id="パス_556" data-name="パス 556" d="M1.86,22.988c.431,0,1.212.01,1.658.01a1.316,1.316,0,0,0,1.066-.828c0-.7-.83-1.385-1.843-1.385-1.113,0-1.879.675-1.879,1.373A.984.984,0,0,0,1.86,22.988Z" transform="translate(-0.862 -20.785)" fill="url(#linear-gradient-9)"/>
+      </g>
+    </g>
+  </g>
+</svg>

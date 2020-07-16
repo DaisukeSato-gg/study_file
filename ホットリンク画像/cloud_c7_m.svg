@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1748" height="600" viewBox="0 0 1748 600">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_9971" data-name="長方形 9971" width="1748" height="600" transform="translate(105 649)" fill="#328ac5"/>
+    </clipPath>
+  </defs>
+  <g id="雲_右上_" data-name="雲（右上）" transform="translate(-105 -649)" clip-path="url(#clip-path)">
+    <g id="rain-black-cloud-with-raindrops-falling-down" transform="translate(1568 568.212)">
+      <g id="グループ_10676" data-name="グループ 10676" transform="translate(0 0.788)">
+        <path id="パス_18979" data-name="パス 18979" d="M230.264,57.277a56.744,56.744,0,0,0-93.021-36.735A50.74,50.74,0,0,0,47.486,40.731a50.867,50.867,0,1,0,20.531,98.521A50.7,50.7,0,0,0,137.28,151.9a50.759,50.759,0,0,0,81.5-14.809,39.933,39.933,0,0,0,7.709.776,40.376,40.376,0,0,0,3.771-80.588Z" transform="translate(0 -0.788)" fill="#e7efef"/>
+      </g>
+    </g>
+  </g>
+</svg>
